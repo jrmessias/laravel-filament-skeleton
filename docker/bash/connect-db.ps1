@@ -1,0 +1,1 @@
+docker exec -ti laravel-filament-skeleton_db /bin/bash
